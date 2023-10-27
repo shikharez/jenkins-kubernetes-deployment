@@ -1,4 +1,4 @@
-https://github.com/shikharez/jenkins-kubernetes-deployment.gitpipeline {
+pipeline {
 
   environment {
     dockerimagename = "bravinwasike/react-app"

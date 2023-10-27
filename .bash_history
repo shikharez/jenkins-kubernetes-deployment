@@ -68,3 +68,15 @@ git pull origin main --rebase
 ls
 git push -u origin main
 vi jenkinsfile
+git status
+git add .
+git commit -m "third commit"
+git config
+git push -u origin main
+vi jenkinsfile
+git status
+\git add .
+git add .
+git commit -m "fourth commit"
+git status
+git push -u origin master

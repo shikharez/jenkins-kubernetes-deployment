@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1698395528,,"wq!"
+|2,0,1698397368,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,40 @@
 # Registers:
 
 # File marks:
-'0  1  61  ~/jenkinsfile
-|4,48,1,61,1698395528,"~/jenkinsfile"
-'1  49  0  ~/jenkinsfile
-|4,49,49,0,1698395322,"~/jenkinsfile"
+'0  1  0  ~/jenkinsfile
+|4,48,1,0,1698397368,"~/jenkinsfile"
+'1  1  61  ~/jenkinsfile
+|4,49,1,61,1698395528,"~/jenkinsfile"
 '2  49  0  ~/jenkinsfile
 |4,50,49,0,1698395322,"~/jenkinsfile"
-'3  43  0  ~/jenkinsfile
-|4,51,43,0,1698344853,"~/jenkinsfile"
-'4  43  0  ~/jenkinsfile
-|4,52,43,0,1698344853,"~/jenkinsfile"
-'5  43  0  ~/jenkinsfile
-|4,53,43,0,1698344853,"~/jenkinsfile"
+'3  49  0  ~/jenkinsfile
+|4,51,49,0,1698395322,"~/jenkinsfile"
+'4  49  0  ~/jenkinsfile
+|4,52,49,0,1698395322,"~/jenkinsfile"
+'5  49  0  ~/jenkinsfile
+|4,53,49,0,1698395322,"~/jenkinsfile"
 '6  43  0  ~/jenkinsfile
 |4,54,43,0,1698344853,"~/jenkinsfile"
-'7  1  1  ~/jenkinsfile
-|4,55,1,1,1698344730,"~/jenkinsfile"
-'8  1  1  ~/jenkinsfile
-|4,56,1,1,1698344730,"~/jenkinsfile"
-'9  1  1  ~/jenkinsfile
-|4,57,1,1,1698344730,"~/jenkinsfile"
+'7  43  0  ~/jenkinsfile
+|4,55,43,0,1698344853,"~/jenkinsfile"
+'8  43  0  ~/jenkinsfile
+|4,56,43,0,1698344853,"~/jenkinsfile"
+'9  43  0  ~/jenkinsfile
+|4,57,43,0,1698344853,"~/jenkinsfile"
 
 # Jumplist (newest first):
+-'  1  0  ~/jenkinsfile
+|4,39,1,0,1698397368,"~/jenkinsfile"
 -'  1  61  ~/jenkinsfile
 |4,39,1,61,1698395528,"~/jenkinsfile"
 -'  49  0  ~/jenkinsfile
 |4,39,49,0,1698395504,"~/jenkinsfile"
 -'  49  0  ~/jenkinsfile
+|4,39,49,0,1698395504,"~/jenkinsfile"
+-'  49  0  ~/jenkinsfile
 |4,39,49,0,1698395322,"~/jenkinsfile"
+-'  43  0  ~/jenkinsfile
+|4,39,43,0,1698395303,"~/jenkinsfile"
 -'  43  0  ~/jenkinsfile
 |4,39,43,0,1698395303,"~/jenkinsfile"
 -'  43  0  ~/jenkinsfile
@@ -67,6 +73,12 @@
 |4,39,1,1,1698344730,"~/jenkinsfile"
 -'  1  0  ~/jenkinsfile
 |4,39,1,0,1698344623,"~/jenkinsfile"
+-'  107  61  ~/jenkinsfile
+|4,39,107,61,1698344596,"~/jenkinsfile"
+-'  59  61  ~/jenkinsfile
+|4,39,59,61,1698344596,"~/jenkinsfile"
+-'  11  61  ~/jenkinsfile
+|4,39,11,61,1698344596,"~/jenkinsfile"
 -'  107  61  ~/jenkinsfile
 |4,39,107,61,1698344596,"~/jenkinsfile"
 -'  59  61  ~/jenkinsfile
@@ -235,32 +247,22 @@
 |4,39,49,0,1698330267,"~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile"
 -'  49  0  ~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile
 |4,39,49,0,1698330267,"~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile"
--'  49  0  ~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile
-|4,39,49,0,1698330267,"~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile"
--'  49  0  ~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile
-|4,39,49,0,1698330267,"~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile"
--'  49  0  ~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile
-|4,39,49,0,1698330267,"~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile"
--'  49  0  ~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile
-|4,39,49,0,1698330267,"~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile"
--'  49  0  ~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile
-|4,39,49,0,1698330267,"~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile"
--'  49  0  ~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile
-|4,39,49,0,1698330267,"~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile"
 
 # History of marks within files (newest to oldest):
 
 > ~/jenkinsfile
-	*	1698395524	0
-	"	1	61
-	^	1	62
-	.	1	61
+	*	1698397360	0
+	"	1	0
+	^	1	0
+	.	1	0
 	+	145	0
 	+	107	61
 	+	97	0
 	+	53	81
 	+	49	0
-	+	1	61
+	+	1	0
+	+	2	0
+	+	1	0
 
 > ~/jenkins-deploy/jenkins-kubernetes-deployment/jenkinsfile
 	*	1698330264	0
