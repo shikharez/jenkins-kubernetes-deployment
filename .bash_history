@@ -80,3 +80,10 @@ git add .
 git commit -m "fourth commit"
 git status
 git push -u origin master
+vi jenkinsfile
+git satus
+git status
+git add .
+git commit -m "last commit"
+git push -u origin master
+git push -u origin main 
